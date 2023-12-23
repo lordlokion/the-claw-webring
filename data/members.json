@@ -4,6 +4,12 @@
     "feed": "https://whitep4nth3r.com/feed.xml",
     "url": "https://whitep4nth3r.com/"
   },
+   {
+    "name": "LordLokion",
+    "feed": "https://dev.to/lordlokion",
+    "url": "https://lordlokion.github.io/"
+  },
+  
   { "name": "Dylan Beattie", "feed": null, "url": "https://dylanbeattie.net/" },
   { "name": "Taylor Drayson", "feed": null, "url": "https://taylordrayson.com/" },
   { "name": "Lars The 18Th", "feed": null, "url": "https://cinicsystems.github.io/" },
